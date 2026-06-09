@@ -323,12 +323,12 @@ Complete the table:
 
 | Command | Why Is It Useful? |
 |----------|------------------|
-| date | |
-| uptime | |
-| hostname | |
-| whoami | |
-| pwd | |
-| cd ~ | |
+| date | It provides the exact current system time and date.|
+| uptime | It shows how long the system has been running, the number of logged-in users, and the system load averages. |
+| hostname | It displays the system's network name, helping the administrator identify which specific server they are currently logged into.|
+| whoami | It displays the username of the current active shell session, helping the administrator verify if they are running commands as a standard user or as root. |
+| pwd |It prints the absolute path of the current working directory, helping the administrator stay oriented within the filesystem hierarchy. |
+| cd ~ |It immediately changes the current working directory back to the user's personal home directory from anywhere in the filesystem.|
 
 ---
 

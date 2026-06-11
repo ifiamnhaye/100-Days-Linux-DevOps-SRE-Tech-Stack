@@ -159,8 +159,8 @@ echo $0
 Write down:
 
 ~~~text
-Shell PID:
-Shell Name:
+Shell PID:13718
+Shell Name:-bash
 ~~~
 
 ### Notes
